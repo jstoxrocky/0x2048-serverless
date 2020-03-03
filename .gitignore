@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Dockerfile
+!handler.py
+!README.md
+!requirements.txt
