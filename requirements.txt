@@ -40,7 +40,7 @@ six==1.14.0
 sortedcontainers==2.1.0
 toolz==0.10.0
 typing-extensions==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 varint==1.0.2
 wcwidth==0.1.8
 web3==5.6.0
