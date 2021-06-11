@@ -45,5 +45,5 @@ varint==1.0.2
 wcwidth==0.1.8
 web3==5.6.0
 git+https://github.com/jstoxrocky/0x2048-webserver.git@jms/lambda
-websockets==8.1
+websockets==9.1
 zipp==3.1.0
